@@ -24,8 +24,8 @@ A simple bot for Minecraft built with [Mineflayer](https://github.com/Prismarine
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/minecraft-bot.git
-   cd minecraft-bot
+   git clone https://github.com/PgNetwork01/minecraft-bot-creation.git
+   cd minecraft-bot-creation
    ```
 
 2. **Install dependencies**:
@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Created by [Your Name](https://github.com/yourusername).
+Created by [Pg Network](https://github.com/PgNetwork01).
